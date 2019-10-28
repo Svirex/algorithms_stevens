@@ -4,3 +4,4 @@ project(numeric_algorithm)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(gcd gcd.cpp)
+add_executable(pow pow.cpp)
